@@ -1,0 +1,26 @@
+Public Health Informatics Specialist
+
+Job Summary
+Integrates public health, information technology, and data analytics to improve health system efficiency and decision-making.
+
+Key Responsibilities
+• Design and manage health information systems
+• Analyze large public health datasets
+• Improve data collection and reporting systems
+• Support surveillance and decision-making processes
+• Ensure interoperability between systems
+
+Qualifications
+• BSc / MSc in Health Informatics / Public Health / Data Science
+• MPH or specialization in informatics preferred
+
+Skills
+• Database management (SQL)
+• Data analytics (R, Python)
+• Health information systems
+• Systems integration
+
+Work Settings
+• Government health departments
+• Research organizations
+• Health IT companies

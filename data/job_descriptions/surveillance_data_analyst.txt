@@ -1,0 +1,25 @@
+Surveillance Data Analyst
+
+Job Summary
+Focuses on analyzing disease surveillance data to detect trends, outbreaks, and public health threats.
+
+Key Responsibilities
+• Analyze surveillance system data (IDSP, etc.)
+• Identify abnormal trends and early warning signals
+• Generate reports and alerts for authorities
+• Collaborate with epidemiologists
+• Maintain surveillance databases
+
+Qualifications
+• BSc / MSc Public Health / Statistics / Data Science
+• MPH preferred
+
+Skills
+• Data monitoring and analysis
+• Epidemiological knowledge
+• Database management
+• Attention to detail
+
+Work Settings
+• Government surveillance units
+• Public health organizations

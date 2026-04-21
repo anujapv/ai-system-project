@@ -1,0 +1,26 @@
+Epidemiologist
+
+Job Summary
+An Epidemiologist studies the distribution, patterns, and causes of diseases in populations to develop strategies for prevention and control.
+
+Key Responsibilities
+• Design and conduct epidemiological studies
+• Analyze health data to identify disease trends
+• Investigate causes and risk factors of diseases
+• Develop prevention and control strategies
+• Publish research and support policy decisions
+
+Qualifications
+• MBBS / Life Sciences / Statistics
+• Master of Public Health (MPH) or MSc Epidemiology
+
+Skills
+• Biostatistics and data analysis
+• Research methodology
+• Critical thinking
+• Data visualization tools (R, SPSS, Python)
+
+Work Settings
+• Government health departments
+• Research institutions
+• International health organizations

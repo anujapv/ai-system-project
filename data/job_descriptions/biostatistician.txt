@@ -1,0 +1,26 @@
+Biostatistician
+
+Job Summary
+A Biostatistician applies statistical techniques to analyze biological and health data for research and decision-making.
+
+Key Responsibilities
+• Design statistical models for health studies
+• Analyze clinical and public health data
+• Interpret results and generate insights
+• Support clinical trials and epidemiological research
+• Ensure data accuracy and validity
+
+Qualifications
+• BSc / MSc in Statistics / Biostatistics / Mathematics
+• MPH or PhD in Biostatistics preferred
+
+Skills
+• Advanced statistical analysis
+• Programming (R, SAS, Python)
+• Data visualization
+• Critical thinking
+
+Work Settings
+• Pharma companies
+• Research organizations
+• Government health agencies

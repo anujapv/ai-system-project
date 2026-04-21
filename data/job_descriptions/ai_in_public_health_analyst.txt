@@ -1,0 +1,26 @@
+AI in Public Health Analyst
+
+Job Summary
+Uses artificial intelligence and machine learning to analyze health data, predict disease trends, and improve public health interventions.
+
+Key Responsibilities
+• Develop AI/ML models for disease prediction and risk assessment
+• Analyze large-scale health datasets
+• Support decision-making with predictive analytics
+• Collaborate with data scientists and public health experts
+• Evaluate AI model performance and accuracy
+
+Qualifications
+• BSc /  MSc in Data Science / AI /  Public Health
+• MPH with data analytics or AI specialization preferred
+
+Skills
+• Machine learning (Python, TensorFlow)
+• Data modeling and analytics
+• Statistical analysis
+• Problem-solving
+
+Work Settings
+• Health tech companies
+• Research labs
+• Government digital health initiatives

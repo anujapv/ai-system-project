@@ -1,0 +1,12 @@
+Here are 3 more resumes tailored to the specific roles mentioned in your "Public Health Officer Models" document. You can save these as .txt files in your data/resumes/ folder to further test your Segmentation and Skill Extraction logic.Resume 3: Community Health Officer (CHO)ANANYA RAOPROFESSIONAL SUMMARY
+Frontline healthcare provider with extensive experience delivering primary care services at Health & Wellness Centers (HWCs). Expert in basic clinical services, first aid, and promoting preventive healthcare practices in rural settings.WORK EXPERIENCE
+Community Health Officer | District Health Society
+May 2024 – Present
+* Deliver basic clinical services and emergency first aid at the local HWC.
+* Conducted over 500 health screenings and risk assessments for non-communicable diseases.
+* Maintained digital patient records and submitted monthly progress reports to the Block Health Officer.Junior Nurse | Rural Health Center
+July 2022 – April 2024
+* Supported national health programs like Pulse Polio and TB control initiatives.
+* Engaged with local community leaders to promote hygiene and sanitation.SKILLS
+* Clinical: Primary care, First aid, Health screening.
+* Soft Skills: Community engagement, Communication, Patient counseling.EDUCATION & CERTIFICATIONBSc Nursing | Kerala University of Health Sciences.Certificate in Community Health (CCH) | IGNOU.

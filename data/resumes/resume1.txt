@@ -1,0 +1,32 @@
+Resume 1 :The Experienced Epidemiologist
+
+ARJUN MEHTA
+
+SUMMARY
+Seasoned Epidemiologist with 6 years of experience in disease surveillance and outbreak investigation. Proven track record of using R and Python for statistical modeling to reduce disease transmission by 20% in urban centers.
+
+EXPERIENCE
+Lead Epidemiologist | State Health Department
+January 2021 – Present
+
+Designed and executed large-scale epidemiological studies to identify transmission patterns.
+
+Mentored junior staff in data visualization tools like SPSS and Tableau.
+
+Coordinated with local laboratories to validate health data alerts.
+
+Field Investigator | Municipal Health Office
+June 2018 – December 2020
+
+Conducted rapid outbreak investigations during seasonal Dengue surges.
+
+Managed field data collection and sample tracking in rural districts.
+
+SKILLS
+
+Technical: SAS, R, Python, GIS Mapping, Biostatistics.
+
+Core: Outbreak Investigation, Strategic Planning, Crisis Management.
+
+EDUCATION
+Master of Public Health (MPH) | University of Washington

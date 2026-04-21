@@ -1,0 +1,12 @@
+Resume 5: Health Data AnalystROHAN DASPROFESSIONAL PROFILE
+Analytical Health Data Analyst focused on processing large healthcare datasets to support evidence-based decision-making. Skilled in developing dashboards and ensuring data integrity for government health programs.WORK EXPERIENCE
+Health Data Analyst | State Surveillance Unit
+January 2023 – Present
+* Collect and clean large-scale healthcare datasets from various district hospitals.
+* Analyze disease trends and patterns to identify early warning signals of outbreaks.
+* Developed interactive Power BI dashboards for real-time monitoring of health indicators.Data Assistant | Research Institute
+June 2021 – December 2022
+* Supported policy and operational decisions through detailed statistical reporting.
+* Ensured data quality and validity for clinical research studies.SKILLS
+* Tools: Excel, SQL, Python, Power BI.
+* Analytical: Data visualization, Statistical modeling, Problem-solving.EDUCATIONBSc in Data Science | Institute of Technology.Master of Public Health (MPH) (Ongoing) | National Institute.

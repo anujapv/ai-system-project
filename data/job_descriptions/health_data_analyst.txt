@@ -1,0 +1,26 @@
+Health Data Analyst
+
+Job Summary
+A Health Data Analyst processes and analyzes healthcare data to support decision-making and improve health outcomes.
+
+Key Responsibilities
+• Collect and clean healthcare datasets
+• Analyze trends, patterns, and outcomes
+• Develop dashboards and reports
+• Support policy and operational decisions
+• Ensure data quality and integrity
+
+Qualifications
+• BSc / MSc in Data Science / Public Health / Statistics
+• Certifications in data analytics preferred
+
+Skills
+• Data analysis tools (Excel, SQL, Python, Power BI)
+• Data visualization
+• Problem-solving
+• Analytical thinking
+
+Work Settings
+• Hospitals
+• Health tech companies
+• Government agencies

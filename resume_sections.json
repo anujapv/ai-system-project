@@ -1,0 +1,172 @@
+{
+    "resume1.txt": {
+        "sections": {
+            "skills": [
+                "python",
+                "sql",
+                "machine learning",
+                "data analysis"
+            ],
+            "education": [
+                "msc mathematics from abc university"
+            ],
+            "experience": [
+                "data science intern at xyz company worked on predictive models and data cleaning"
+            ],
+            "projects": [
+                "resume parser using nlp sales prediction model"
+            ],
+            "certifications": [],
+            "others": []
+        },
+        "skills_extracted": {
+            "skills": [
+                "python",
+                "machine learning",
+                "sql",
+                "data analysis"
+            ],
+            "confidence": {
+                "python": 0.75,
+                "machine learning": 0.75,
+                "sql": 0.75,
+                "data analysis": 0.75
+            }
+        }
+    },
+    "resume2.txt": {
+        "sections": {
+            "skills": [
+                "java",
+                "c++",
+                "data structures",
+                "algorithms"
+            ],
+            "education": [
+                "btech computer science from def college"
+            ],
+            "experience": [
+                "software developer intern at techsoft developed backend apis"
+            ],
+            "projects": [
+                "library management system chat application using java"
+            ],
+            "certifications": [],
+            "others": []
+        },
+        "skills_extracted": {
+            "skills": [
+                "java",
+                "data structures",
+                "algorithms"
+            ],
+            "confidence": {
+                "java": 0.75,
+                "data structures": 0.75,
+                "algorithms": 0.75
+            }
+        }
+    },
+    "resume3.txt": {
+        "sections": {
+            "skills": [],
+            "education": [
+                "bsc statistics from ghi university"
+            ],
+            "experience": [
+                "data analyst intern at datacorp created dashboards and reports"
+            ],
+            "projects": [],
+            "certifications": [
+                "google data analytics certification"
+            ],
+            "others": [
+                "core competencies excel",
+                "power bi",
+                "data visualization"
+            ]
+        },
+        "skills_extracted": {
+            "skills": [
+                "excel",
+                "power bi",
+                "data visualization"
+            ],
+            "confidence": {
+                "excel": 0.75,
+                "power bi": 0.75,
+                "data visualization": 0.75
+            }
+        }
+    },
+    "resume4.txt": {
+        "sections": {
+            "skills": [
+                "html",
+                "css",
+                "javascript",
+                "react"
+            ],
+            "education": [
+                "bca from jkl college"
+            ],
+            "experience": [
+                "frontend developer intern at webworks designed responsive web pages"
+            ],
+            "projects": [
+                "portfolio website e",
+                "commerce ui design"
+            ],
+            "certifications": [],
+            "others": []
+        },
+        "skills_extracted": {
+            "skills": [
+                "html",
+                "css",
+                "javascript",
+                "react"
+            ],
+            "confidence": {
+                "html": 0.75,
+                "css": 0.75,
+                "javascript": 0.75,
+                "react": 0.75
+            }
+        }
+    },
+    "resume5.txt": {
+        "sections": {
+            "skills": [
+                "python",
+                "machine learning",
+                "deep learning"
+            ],
+            "education": [
+                "msc data science from mno university"
+            ],
+            "experience": [
+                "ai intern at futuretech worked on image classification models"
+            ],
+            "projects": [
+                "face recognition system chatbot using nlp"
+            ],
+            "certifications": [
+                "coursera machine learning course"
+            ],
+            "others": []
+        },
+        "skills_extracted": {
+            "skills": [
+                "python",
+                "machine learning",
+                "deep learning"
+            ],
+            "confidence": {
+                "python": 0.75,
+                "machine learning": 0.75,
+                "deep learning": 0.75
+            }
+        }
+    }
+}
